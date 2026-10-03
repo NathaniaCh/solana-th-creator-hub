@@ -5,6 +5,9 @@
 ---
 
 ## 📌 Executive Summary
+## 📚 เนื้อหาคู่มือและโมดูลการเรียนรู้ (Content Modules)
+
+* **[🎨 โมดูลที่ 1: ประตูเปิดสู่ออนเชนสำหรับครีเอเตอร์](./content/module-1.md)** - ทลายกำแพงภาษา เปลี่ยนกระเป๋าเงินดิจิทัลให้เป็นพาสปอร์ตส่วนตัว และเริ่มต้นก้าวแรกสู่งานบนเชนแบบเข้าใจง่าย
 
 **Solana TH Onboarding & Creator Hub** addresses the steep learning curve and language barrier facing local Thai creators, students, and Web2 users. By combining **localized Thai content**, **AI-driven learning agents**, and **curated design resource packs**, the hub simplifies complex Web3 mechanics into approachable, bite-sized experiences.
 

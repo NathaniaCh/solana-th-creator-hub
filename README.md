@@ -11,6 +11,7 @@
 
 **Solana TH Onboarding & Creator Hub** addresses the steep learning curve and language barrier facing local Thai creators, students, and Web2 users. By combining **localized Thai content**, **AI-driven learning agents**, and **curated design resource packs**, the hub simplifies complex Web3 mechanics into approachable, bite-sized experiences.
 
+* **[🎨 โมดูลที่ 2: คลังวัตถุดิบและคู่มือสำหรับครีเอเตอร์](./content/module-2.md)** - ติดอาวุธครีเอเตอร์ไทยด้วยเทมเพลตดีไซน์ คำศัพท์ Web3 ฉบับย่อยง่าย และ AI Prompt สำเร็จรูป
 ---
 
 ## 🎯 Project Overview (The 8 Core Dimensions)

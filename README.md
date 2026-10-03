@@ -1,18 +1,14 @@
-# 🇹🇭 Solana TH Onboarding & Creator Hub
-
-> **A creator-led, AI-enhanced onboarding platform designed to bridge local Thai creators and non-technical users into the Solana ecosystem seamlessly.**
-
----
-
-## 📌 Executive Summary
-## 📚 เนื้อหาคู่มือและโมดูลการเรียนรู้ (Content Modules)
-
-* **[🎨 โมดูลที่ 1: ประตูเปิดสู่ออนเชนสำหรับครีเอเตอร์](./content/module-1.md)** - ทลายกำแพงภาษา เปลี่ยนกระเป๋าเงินดิจิทัลให้เป็นพาสปอร์ตส่วนตัว และเริ่มต้นก้าวแรกสู่งานบนเชนแบบเข้าใจง่าย
+## 🚀 Executive Summary
 
 **Solana TH Onboarding & Creator Hub** addresses the steep learning curve and language barrier facing local Thai creators, students, and Web2 users. By combining **localized Thai content**, **AI-driven learning agents**, and **curated design resource packs**, the hub simplifies complex Web3 mechanics into approachable, bite-sized experiences.
 
-* **[🎨 โมดูลที่ 2: คลังวัตถุดิบและคู่มือสำหรับครีเอเตอร์](./content/module-2.md)** - ติดอาวุธครีเอเตอร์ไทยด้วยเทมเพลตดีไซน์ คำศัพท์ Web3 ฉบับย่อยง่าย และ AI Prompt สำเร็จรูป
 ---
+
+## 📚 เนื้อหาคู่มือและโมดูลการเรียนรู้ (Content Modules)
+
+* **[🎨 โมดูลที่ 1: ประตูเปิดสู่ออนเชนสำหรับครีเอเตอร์](./content/module-1.md)** - ทลายกำแพงภาษา เปลี่ยนกระเป๋าเงินดิจิทัลให้เป็นพาสปอร์ตส่วนตัว และเริ่มต้นก้าวแรกสู่งานบนเชนแบบเข้าใจง่าย
+* **[🎨 โมดูลที่ 2: คลังวัตถุดิบและคู่มือสำหรับครีเอเตอร์](./content/module-2.md)** - ติดอาวุธครีเอเตอร์ไทยด้วยเทมเพลตดีไซน์ คำศัพท์ Web3 ฉบับย่อยง่าย และ AI Prompt สำเร็จรูป
+* **[🚀 โมดูลที่ 3: คู่มือการพิสูจน์ผลงาน (Proof of Work) และการคว้าทุน Superteam Earn Bounties](./content/module-3.md)** - เปลี่ยนทักษะและไอเดียให้เป็นผลงานจริง พร้อมคว้าทุนสนับสนุนและสร้างรายได้บนคอมมูนิตี้ Solana
 
 ## 🎯 Project Overview (The 8 Core Dimensions)
 
